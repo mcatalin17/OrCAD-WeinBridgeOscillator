@@ -1,0 +1,191 @@
+(ExpressProject "wien_25"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v2.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\wien_25.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "TRUE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\WIEN_25.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\SCHEMATICS\P1\SCHEMA\WIEN_25.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\SCHEMATICS\P1\SCHEMA\WIEN_25.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\wien_25-pspicefiles\schematic1\schematic1.net"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\wien_25.bom"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\wien_25-pspicefiles\schematic1\psf.sim"
+        (DisplayName "SCHEMATIC1-PSF")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\wien_25-pspicefiles\schematic1\timp.sim"
+        (DisplayName "SCHEMATIC1-timp")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\wien_25-pspicefiles\schematic1\timp.sim"))
+    (Folder "Stimulus Files")
+    (Folder "Include Files")
+    (Folder "Model Libraries"
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\1n4148.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\1n4148.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc807-25.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc807-25.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc817-25.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc817-25.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc846b.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc846b.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc856b.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bc856b.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c2v7.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c2v7.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v1.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v1.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v6.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v6.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v2.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v2.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v8.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v8.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c8v2.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c8v2.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c10.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c10.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\irfr120npbf.lib"
+        (DisplayName
+           ".\lib_modelepspice_anexa_1_a\modele_a1_lib\irfr120npbf.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd31cg.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd31cg.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd32cg.lib"
+        (DisplayName ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd32cg.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj177lt1g.lib"
+        (DisplayName
+           ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj177lt1g.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj309lt1g.lib"
+        (DisplayName
+           ".\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj309lt1g.lib")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\irina\Desktop\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\Schematics\p1\schema\wien_25.dsn")
+      (Path "Design Resources"
+         "C:\Users\irina\Desktop\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\Schematics\p1\schema\wien_25.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\irina\Desktop\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\P1_2023_431D_Mirea_Catalin_Gabriel_OW_N25_OrCad\Schematics\p1\schema\wien_25.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 686"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
+        (Scroll "-314 0")
+        (Zoom "43")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\P1_2023_431D_MIREA_CATALIN_GABRIEL_OW_N25_ORCAD\SCHEMATICS\P1\SCHEMA\WIEN_25.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "irina")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\irina\Desktop\P1_2023_431D_Mirea_Catalin_Oscilator_RC_cu_punte_Wien_25_OrCad\Schematics\Wien_N25\schema\Lib_ModelePSpice_Anexa_1_a\Modele_A1_lib")
+  (ISPCBBASICLICENSE "false"))

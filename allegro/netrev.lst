@@ -1,0 +1,166 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : WIEN_25.brd                                   )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Dec 04 13:17:27 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD\SCHEMATICS\P1\SCHEMA\allegro'
+Design Directory:            'C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro'
+Old design name:             'C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd'
+New design name:             'C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD\SCHEMATICS\P1\SCHEMA\allegro C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD\SCHEMATICS\P1\SCHEMA\allegro\WIEN_25.brd C:\USERS\IRINA\DESKTOP\P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD\SCHEMATICS\P1\SCHEMA\allegro\WIEN_25.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstchip.dat 
+   Finished reading C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstchip.dat (00:00:00.12)
+Starting to read C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstxprt.dat 
+   Finished reading C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstxnet.dat 
+   Finished reading C:/USERS/IRINA/DESKTOP/P1_2023_431D_MIREA_CATALIN_OSCILATOR_RC_CU_PUNTE_WIEN_25_ORCAD/SCHEMATICS/P1/SCHEMA/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPAE660X770N' used by RefDes C1 for device 'C_CAPAE660X770N_1N' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPAE660X770N' used by RefDes C77 for device 'C_0_CAPAE660X770N_1U' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIOM2012X160M' used by RefDes D5 for device '1N4148_0_DIOM2012X160M_1N4148' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TS53YL' used by RefDes P1 for device 'POT_TS53YL_500K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TS53YL' used by RefDes P2 for device 'POT_TS53YL_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TS53YL' used by RefDes P3 for device 'POT_0_TS53YL_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R1 for device 'R_RES2012X50N_0805_510' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R14 for device 'R_RES2012X50N_0805_51' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R17 for device 'R_RES2012X50N_0805_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R2 for device 'R_RES2012X50N_0805_22K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R3 for device 'R_RES2012X50N_0805_380' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R38 for device 'R_RES2012X50N_0805_1K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R4 for device 'R_RES2012X50N_0805_3.9K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R40 for device 'R_RES2012X50N_0805_6.8K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes R42 for device 'R_RES2012X50N_0805_100' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes RL2 for device 'R_RES2012X50N_0805_3.3K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RES2012X50N_0805' used by RefDes RZ for device 'R_RES2012X50N_0805_68K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIOM2012X160M' used by RefDes U1 for device '1N4148_1_DIOM2012X160M_1N4148' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIOM2012X160M' used by RefDes U2 for device '1N4148_2_DIOM2012X160M_1N4148' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 4 13:17:27 2023
+   DESIGN NAME : 'WIEN_25'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 19 warnings detected
+
+cpu time      0:01:30
+elapsed time  0:00:01
+

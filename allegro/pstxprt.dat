@@ -1,0 +1,480 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-04-2023 at 13:17:24 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='WIEN_25';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143432@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143432@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143432@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142828@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142828@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142828@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142552@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142552@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142552@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143416@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143416@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143416@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143470@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143470@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143470@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142584@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142584@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142584@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_CAPAE660X770N_1N':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142568@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142568@analog.\c.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142568@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'C_0_CAPAE660X770N_1U':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142698@WIEN_25.C_0.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142698@wien_25.\c_0.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142698@wien_25.\c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 '1N4148_0_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142070@WIEN_25.1N4148_0.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142070@wien_25.\1n4148_0.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142070@wien_25.\1n4148_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_TS53YL_500K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142736@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142736@breakout.\pot.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142736@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'POT_TS53YL_10K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142436@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142436@breakout.\pot.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142436@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P3 'POT_0_TS53YL_10K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143516@WIEN_25.POT_0.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143516@wien_25.\pot_0.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143516@wien_25.\pot_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 'QBC846B_4_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143076@WIEN_25.QBC846B_4.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143076@wien_25.\qbc846b_4.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143076@wien_25.\qbc846b_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q11 'QBC846B_5_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143102@WIEN_25.QBC846B_5.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143102@wien_25.\qbc846b_5.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143102@wien_25.\qbc846b_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q12 'QBC846B_7_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143128@WIEN_25.QBC846B_7.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143128@wien_25.\qbc846b_7.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143128@wien_25.\qbc846b_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q14 'QBC846B_1_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143154@WIEN_25.QBC846B_1.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143154@wien_25.\qbc846b_1.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143154@wien_25.\qbc846b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q15 'QBC846B_3_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS141882@WIEN_25.QBC846B_3.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins141882@wien_25.\qbc846b_3.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins141882@wien_25.\qbc846b_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q16 'QBC846B_2_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS141914@WIEN_25.QBC846B_2.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins141914@wien_25.\qbc846b_2.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins141914@wien_25.\qbc846b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q17 'QBC856B_1_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS141940@WIEN_25.QBC856B_1.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins141940@wien_25.\qbc856b_1.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins141940@wien_25.\qbc856b_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q18 'QBC856B_0_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS141966@WIEN_25.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins141966@wien_25.\qbc856b_0.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins141966@wien_25.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q19 'QBC856B_5_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS141992@WIEN_25.QBC856B_5.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins141992@wien_25.\qbc856b_5.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins141992@wien_25.\qbc856b_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q20 'QBC856B_2_TO236AA_QBC856B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142018@WIEN_25.QBC856B_2.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142018@wien_25.\qbc856b_2.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142018@wien_25.\qbc856b_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q21 'JMMBFJ309LT1_0_TO236AA_JMMBFJ30':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142044@WIEN_25.JMMBFJ309LT1_0.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142044@wien_25.\jmmbfj309lt1_0.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142044@wien_25.\jmmbfj309lt1_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q22 'QBC846B_8_TO236AA_QBC846B':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142092@WIEN_25.QBC846B_8.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142092@wien_25.\qbc846b_8.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142092@wien_25.\qbc846b_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES2012X50N_0805_510':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143490@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143490@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143490@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142286@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142286@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142286@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142306@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142306@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142306@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES2012X50N_0805_510':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142414@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142414@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142414@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES2012X50N_0805_10K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142642@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142642@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142642@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142772@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142772@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142772@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_380':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142382@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142382@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142382@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142714@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142714@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142714@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143220@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143220@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143220@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES2012X50N_0805_3.9K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142614@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142614@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142614@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_RES2012X50N_0805_6.8K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS144008@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins144008@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins144008@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_RES2012X50N_0805_6.8K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS144122@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins144122@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins144122@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS144673@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins144673@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins144673@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS144819@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins144819@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins144819@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142886@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142886@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142886@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RL 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142988@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142988@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142988@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RL2 'R_RES2012X50N_0805_3.3K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143822@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143822@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143822@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RD1 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142150@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142150@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142150@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RD2 'R_RES2012X50N_0805_100':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS142210@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins142210@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins142210@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RZ 'R_RES2012X50N_0805_68K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143268@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143268@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143268@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RZ1 'R_RES2012X50N_0805_22K':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS145612@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins145612@analog.\r.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins145612@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '1N4148_1_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143362@WIEN_25.1N4148_1.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143362@wien_25.\1n4148_1.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143362@wien_25.\1n4148_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '1N4148_2_DIOM2012X160M_1N4148':;
+
+SECTION_NUMBER 1
+ '@WIEN_25.SCHEMATIC1(SCH_1):INS143390@WIEN_25.1N4148_2.NORMAL(CHIPS)':
+ C_PATH='@wien_25.schematic1(sch_1):ins143390@wien_25.\1n4148_2.normal\(chips)',
+ P_PATH='@wien_25.schematic1(sch_1):page_ins143390@wien_25.\1n4148_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

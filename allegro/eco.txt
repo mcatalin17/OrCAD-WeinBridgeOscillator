@@ -1,0 +1,332 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C3.1           C6.1           C7.1           
+                                 C77.1          P1.3           Q21.2          
+                                 R42.1          RD2.1          RL2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INM          pins ADDED TO this new net
+                                 Q16.1          R2.2           R17.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INP          pins ADDED TO this new net
+                                 C3.2           C6.2           C7.2           
+                                 P2.1           P3.2           P3.3           
+                                 Q14.1          R40.1          R41.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N141910      pins ADDED TO this new net
+                                 Q10.1          Q15.1          R4.1           
+                                 U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142124      pins ADDED TO this new net
+                                 RD1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142206      pins ADDED TO this new net
+                                 RD2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142248      pins ADDED TO this new net
+                                 Q14.2          Q15.3          Q16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142260      pins ADDED TO this new net
+                                 C2.2           Q14.3          Q18.3          
+                                 Q19.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142264      pins ADDED TO this new net
+                                 Q16.3          Q17.1          Q17.3          
+                                 Q18.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142282      pins ADDED TO this new net
+                                 Q18.2          R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142328      pins ADDED TO this new net
+                                 Q17.2          R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142370      pins ADDED TO this new net
+                                 Q15.2          R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142490      pins ADDED TO this new net
+                                 R16.1          R42.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N142520      pins ADDED TO this new net
+                                 P2.2           P2.3           R16.2          
+                                 R41.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142672      pins ADDED TO this new net
+                                 Q21.1          R17.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142684      pins ADDED TO this new net
+                                 P1.2           Q21.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142696      pins ADDED TO this new net
+                                 C77.2          D5.2           P1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142810      pins ADDED TO this new net
+                                 C2.1           Q12.1          Q12.3          
+                                 Q19.3          Q22.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142852      pins ADDED TO this new net
+                                 Q11.1          Q11.3          Q12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142878      pins ADDED TO this new net
+                                 Q10.3          Q11.2          Q20.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N142882      pins ADDED TO this new net
+                                 Q10.2          R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N143016      pins ADDED TO this new net
+                                 RL2.1          RL.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N143244      pins ADDED TO this new net
+                                 Q19.2          R39.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N143386      pins ADDED TO this new net
+                                 U1.2           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N143466      pins ADDED TO this new net
+                                 C1.1           C4.1           C5.1           
+                                 R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N143560      pins ADDED TO this new net
+                                 R1.1           R43.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N144030      pins ADDED TO this new net
+                                 P3.1           R40.2          R43.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N145638      pins ADDED TO this new net
+                                 RZ1.2          RZ.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N1420800     pins ADDED TO this new net
+                                 D5.1           R38.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REACTIE      pins ADDED TO this new net
+                                 C1.2           C4.2           C5.2           
+                                 Q20.2          Q22.2          R2.1           
+                                 R38.1          RZ1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 Q22.3          R4.2           R14.2          
+                                 R15.2          R39.2          RD1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VEE          pins ADDED TO this new net
+                                 Q20.3          R3.1           R5.1           
+                                 U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT         pins ADDED TO this new net
+                                 RL.1           RZ.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148_0_DIOM2012X160M_1N4148
+ 1N4148_1_DIOM2012X160M_1N4148
+ 1N4148_2_DIOM2012X160M_1N4148
+ C_0_CAPAE660X770N_1U
+ C_CAPAE660X770N_1N
+ JMMBFJ309LT1_0_TO236AA_JMMBFJ30
+ POT_0_TS53YL_10K
+ POT_TS53YL_10K
+ POT_TS53YL_500K
+ QBC846B_1_TO236AA_QBC846B
+ QBC846B_2_TO236AA_QBC846B
+ QBC846B_3_TO236AA_QBC846B
+ QBC846B_4_TO236AA_QBC846B
+ QBC846B_5_TO236AA_QBC846B
+ QBC846B_7_TO236AA_QBC846B
+ QBC846B_8_TO236AA_QBC846B
+ QBC856B_0_TO236AA_QBC856B
+ QBC856B_1_TO236AA_QBC856B
+ QBC856B_2_TO236AA_QBC856B
+ QBC856B_5_TO236AA_QBC856B
+ R_RES2012X50N_0805_1K
+ R_RES2012X50N_0805_3.3K
+ R_RES2012X50N_0805_3.9K
+ R_RES2012X50N_0805_6.8K
+ R_RES2012X50N_0805_10K
+ R_RES2012X50N_0805_22K
+ R_RES2012X50N_0805_68K
+ R_RES2012X50N_0805_51
+ R_RES2012X50N_0805_100
+ R_RES2012X50N_0805_380
+ R_RES2012X50N_0805_510
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAPAE660X770N_1N    
+ C2                  C_CAPAE660X770N_1N    
+ C3                  C_CAPAE660X770N_1N    
+ C4                  C_CAPAE660X770N_1N    
+ C5                  C_CAPAE660X770N_1N    
+ C6                  C_CAPAE660X770N_1N    
+ C7                  C_CAPAE660X770N_1N    
+ C77                 C_0_CAPAE660X770N_1U  
+ D5                  1N4148_0_DIOM2012X160M_1N4148 
+ P1                  POT_TS53YL_500K       
+ P2                  POT_TS53YL_10K        
+ P3                  POT_0_TS53YL_10K      
+ Q10                 QBC846B_4_TO236AA_QBC846B 
+ Q11                 QBC846B_5_TO236AA_QBC846B 
+ Q12                 QBC846B_7_TO236AA_QBC846B 
+ Q14                 QBC846B_1_TO236AA_QBC846B 
+ Q15                 QBC846B_3_TO236AA_QBC846B 
+ Q16                 QBC846B_2_TO236AA_QBC846B 
+ Q17                 QBC856B_1_TO236AA_QBC856B 
+ Q18                 QBC856B_0_TO236AA_QBC856B 
+ Q19                 QBC856B_5_TO236AA_QBC856B 
+ Q20                 QBC856B_2_TO236AA_QBC856B 
+ Q21                 JMMBFJ309LT1_0_TO236AA_JMMBFJ30 
+ Q22                 QBC846B_8_TO236AA_QBC846B 
+ R1                  R_RES2012X50N_0805_510 
+ R2                  R_RES2012X50N_0805_22K 
+ R3                  R_RES2012X50N_0805_380 
+ R4                  R_RES2012X50N_0805_3.9K 
+ R5                  R_RES2012X50N_0805_51 
+ R14                 R_RES2012X50N_0805_51 
+ R15                 R_RES2012X50N_0805_51 
+ R16                 R_RES2012X50N_0805_510 
+ R17                 R_RES2012X50N_0805_10K 
+ R38                 R_RES2012X50N_0805_1K 
+ R39                 R_RES2012X50N_0805_51 
+ R40                 R_RES2012X50N_0805_6.8K 
+ R41                 R_RES2012X50N_0805_6.8K 
+ R42                 R_RES2012X50N_0805_100 
+ R43                 R_RES2012X50N_0805_100 
+ RD1                 R_RES2012X50N_0805_100 
+ RD2                 R_RES2012X50N_0805_100 
+ RL2                 R_RES2012X50N_0805_3.3K 
+ RL                  R_RES2012X50N_0805_22K 
+ RZ1                 R_RES2012X50N_0805_22K 
+ RZ                  R_RES2012X50N_0805_68K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1                  1N4148_1_DIOM2012X160M_1N4148 
+ U2                  1N4148_2_DIOM2012X160M_1N4148 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C77.2                          PRIM_FILE      .\pstchip.dat
+ D5.1                           PRIM_FILE      .\pstchip.dat
+ P1.2                           PRIM_FILE      .\pstchip.dat
+ P2.2                           PRIM_FILE      .\pstchip.dat
+ P3.2                           PRIM_FILE      .\pstchip.dat
+ Q10.2                          PRIM_FILE      .\pstchip.dat
+ Q11.2                          PRIM_FILE      .\pstchip.dat
+ Q12.2                          PRIM_FILE      .\pstchip.dat
+ Q14.2                          PRIM_FILE      .\pstchip.dat
+ Q15.2                          PRIM_FILE      .\pstchip.dat
+ Q16.2                          PRIM_FILE      .\pstchip.dat
+ Q17.2                          PRIM_FILE      .\pstchip.dat
+ Q18.2                          PRIM_FILE      .\pstchip.dat
+ Q19.2                          PRIM_FILE      .\pstchip.dat
+ Q20.2                          PRIM_FILE      .\pstchip.dat
+ Q21.2                          PRIM_FILE      .\pstchip.dat
+ Q22.2                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R38.2                          PRIM_FILE      .\pstchip.dat
+ R39.2                          PRIM_FILE      .\pstchip.dat
+ R40.2                          PRIM_FILE      .\pstchip.dat
+ R41.2                          PRIM_FILE      .\pstchip.dat
+ R42.2                          PRIM_FILE      .\pstchip.dat
+ R43.2                          PRIM_FILE      .\pstchip.dat
+ RD1.2                          PRIM_FILE      .\pstchip.dat
+ RD2.2                          PRIM_FILE      .\pstchip.dat
+ RL2.2                          PRIM_FILE      .\pstchip.dat
+ RL.2                           PRIM_FILE      .\pstchip.dat
+ RZ1.2                          PRIM_FILE      .\pstchip.dat
+ RZ.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../SCHEMATICS/P1/SCHEMA/allegro/WIEN_25.brd                              |
+|                                                    Mon Dec 04 13:17:27 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.2                           PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     109                                        |
+|       Comp definitions added:      31                                        |
+|       Components added      :      47                                        |
+|       Slot property added   :      47                                        |
+|                                                                              |
+|   Total ECO changes reported:     234                                        |
+|------------------------------------------------------------------------------|

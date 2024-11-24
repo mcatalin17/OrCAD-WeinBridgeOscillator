@@ -1,0 +1,25 @@
+** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATIC1\PSF.sim ] 
+
+** Creating circuit file "PSF.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/1n4148.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc807-25.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc817-25.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc846b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc856b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bzx84c2v7.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/mmbfj309lt1g.lib" 
+* From [PSPICE NETLIST] section of C:\Users\Lucian\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

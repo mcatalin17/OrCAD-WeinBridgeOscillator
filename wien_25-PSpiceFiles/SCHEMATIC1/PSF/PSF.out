@@ -1,0 +1,280 @@
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "PSF.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/1n4148.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc807-25.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc817-25.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc846b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bc856b.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/bzx84c2v7.lib" 
+.LIB "../../../lib_modelepspice_anexa_1_a/modele_a1_lib/mmbfj309lt1g.lib" 
+* From [PSPICE NETLIST] section of C:\Users\Lucian\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source WIEN_25
+Q_Q12         N142810 N142810 N142852 QBC846B 
+R_Rd2         0 N142206  100 TC=0,0 
+Q_Q19         N142810 N142260 N143244 QBC856B 
+Q_Q16         N142264 INM N142248 QBC846B 
+X_D5         N142696 N1420800 awb1n4148 PARAMS:                
+V_V3         N142124 0 3
+R_R16         N142490 N142520  510 TC=0,0 
+R_R3         VEE N142370  380 TC=0,0 
+R_R38         REACTIE N1420800  1k TC=0,0 
+R_RL         VOUT N143016  22k TC=0,0 
+J_Q21         N142672 N142684 0 JMMBFJ309LT1 
+X_U2         N143386 VEE 1N4148 
+Q_Q22         VCC N142810 REACTIE QBC846B 
+R_R39         N143244 VCC  51 TC=0,0 
+C_C2         N142810 N142260  1n  TC=0,0 
+R_R17         N142672 INM  10k TC=0,0 
+R_R14         N142282 VCC  51 TC=0,0 
+V_V1         VCC 0 5
+Q_Q14         N142260 INP N142248 QBC846B 
+C_C1         N143466 REACTIE  1n  TC=0,0 
+Q_Q10         N142878 N141910 N142882 QBC846B 
+R_R2         REACTIE INM  22k TC=0,0 
+C_C7         0 INP  1n  TC=0,0 
+V_V2         0 VEE 5
+C_C3         0 INP  1n  TC=0,0 
+C_C6         0 INP  1n  TC=0,0 
+R_R1         N143560 N143466  510 TC=0,0 
+R_Rd1         VCC N142124  100 TC=0,0 
+X_P3         N144030 INP INP POT PARAMS: SET=0 VALUE=10k
+R_Rz         N145638 VOUT  68k TC=0,0 
+X_P2         INP N142520 N142520 POT PARAMS: SET=0 VALUE=10k
+R_R15         N142328 VCC  51 TC=0,0 
+C_C77         0 N142696  1u  TC=0,0 
+R_R4         N141910 VCC  3.9k TC=0,0 
+Q_Q15         N142248 N141910 N142370 QBC846B 
+X_U1         N141910 N143386 1N4148 
+R_R5         VEE N142882  51 TC=0,0 
+Q_Q18         N142260 N142264 N142282 QBC856B 
+Q_Q20         VEE N142878 REACTIE QBC856B 
+X_P1         N142696 N142684 0 POT PARAMS: SET=0.8 VALUE=500k
+C_C5         N143466 REACTIE  1n  TC=0,0 
+C_C4         N143466 REACTIE  1n  TC=0,0 
+Q_Q17         N142264 N142264 N142328 QBC856B 
+Q_Q11         N142852 N142852 N142878 QBC846B 
+V_V4         N142206 VEE 3
+R_RL2         N143016 0  3.3k TC=0,0 
+R_R40         INP N144030  6.8k TC=0,0 
+R_R41         INP N142520  6.8k TC=0,0 
+R_R42         0 N142490  100 TC=0,0 
+R_R43         N144030 N143560  100 TC=0,0 
+R_Rz1         REACTIE N145638  22k TC=0,0 
+
+**** RESUMING PSF.cir ****
+.END
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_D5.model22    X_U2.1N4148     X_U1.1N4148     
+          IS    1.000000E-09    4.352000E-09    4.352000E-09 
+           N    1.55            1.906           1.906        
+          BV  120             110             110            
+         IBV    1             100.000000E-06  100.000000E-06 
+          RS     .5              .6458           .6458       
+          TT    5.000000E-09    3.480000E-09    3.480000E-09 
+         CJO    1.850000E-12  704.800000E-15  704.800000E-15 
+          VJ     .65             .869            .869        
+           M     .18             .03             .03         
+
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               QBC846B         QBC856B         
+               NPN             PNP             
+       LEVEL    1               1            
+          IS   18.220000E-15   20.140000E-15 
+          BF  324.4           315.3          
+          NF     .9932           .9974       
+         VAF   82              39.15         
+         IKF     .109            .079        
+         ISE  289.400000E-18    6.578000E-15 
+          NE    1.4             1.45         
+          BR    8.29            8.68         
+          NR     .9931           .9952       
+         VAR   17.9             9.5          
+         IKR     .09             .09         
+         ISC    9.982000E-12   16.330000E-15 
+          NC    1.763           1.15         
+         ISS    0               0            
+          RB   10              10            
+         RBM    5               5.000000E-06 
+         IRB    5.000000E-06    5.000000E-06 
+          RE     .649            .663        
+          RC     .7014           .718        
+         CJE   12.440000E-12   11.350000E-12 
+         VJE     .7579           .7071       
+         MJE     .3656           .3808       
+         CJC    3.347000E-12    6.395000E-12 
+         VJC     .5463           .4951       
+         MJC     .391            .44         
+        XCJC     .6193           .6288       
+         CJS    0               0            
+         VJS     .75             .75         
+         MJS     .333            .333        
+          FC     .979            .9059       
+          TF  490.800000E-12  654.600000E-12 
+         XTF    9.51            5.387        
+         VTF    2.927           6.245        
+         ITF     .3131           .2108       
+          TR   90.000000E-09   55.000000E-09 
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.2          
+           D     .87             .52         
+
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     Junction FET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               JMMBFJ309LT1    
+               NJF             
+         VTO   -1.7          
+        BETA    5.560100E-03 
+      LAMBDA     .02184      
+          IS    1.333600E-12 
+          RD     .1          
+          RS     .1          
+         CGD    5.351520E-12 
+         CGS    5.071890E-12 
+          PB    2.41896      
+          KF    9.999820E-21 
+          AF     .200092     
+
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(  INM)    -.0140  (  INP)    -.0125  (  VCC)    5.0000  (  VEE)   -5.0000      
+
+( VOUT)     .0024  (N141910)   -3.7029                   (N142124)    3.0000    
+
+(N142206)   -2.0000                   (N142248)    -.6446                       
+
+(N142260)    3.7017                   (N142264)    4.3253                       
+
+(N142282)    4.9578                   (N142328)    4.9581                       
+
+(N142370)   -4.3532                   (N142490)-267.7E-06                       
+
+(N142520)    -.0016                   (N142672)-73.84E-06                       
+
+(N142684) 95.24E-06                   (N142696) 119.0E-06                       
+
+(N142810)     .7199                   (N142852)     .0107                       
+
+(N142878)    -.6985                   (N142882)   -4.4113                       
+
+(N143016) 315.4E-06                   (N143244)    4.4112                       
+
+(N143386)   -4.3514                   (N143466)    -.0125                       
+
+(N143560)    -.0125                   (N144030)    -.0125                       
+
+(N145638)     .0089                   (REACTIE)     .0110                       
+
+(N1420800)     .0110                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V3         2.000E-02
+    V_V1        -4.723E-02
+    V_V2        -4.723E-02
+    V_V4         2.000E-02
+
+    TOTAL POWER DISSIPATION   3.52E-01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/14/23 01:11:24 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .02
+

@@ -1,0 +1,110 @@
+
+**** 11/14/23 00:56:05 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-PSF"  [ D:\DOCUMENTE\UPB\AN III\SEMESTRUL 1\PROIECT_1\SEM1_2023\WIEN_N25\schema\wien_25-PSpiceFiles\SCHEMATI
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "PSF.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Lucian\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source WIEN_25
+Q_Q12         N142810 N142810 N142852 QBC846B 
+R_Rd2         0 N142206  100 TC=0,0 
+Q_Q19         N142810 N142260 N143244 QBC856B 
+Q_Q16         N142264 INM N142248 QBC846B 
+X_D5         N142696 N1420800 awb1n4148 PARAMS:                
+V_V3         N142124 0 3
+R_R16         0 N142520  680 TC=0,0 
+R_R3         VEE N142370  380 TC=0,0 
+R_R38         REACTIE N1420800  1k TC=0,0 
+R_RL         VOUT 0  22k TC=0,0 
+J_Q21         N142672 N142684 0 JMMBFJ309LT1 
+X_U2         N143386 VEE 1N4148 
+Q_Q22         VCC N142810 REACTIE QBC846B 
+R_R39         N143244 VCC  51 TC=0,0 
+C_C2         N142810 N142260  1n  TC=0,0 
+R_R17         N142672 INM  10k TC=0,0 
+R_R14         N142282 VCC  51 TC=0,0 
+V_V1         VCC 0 5
+Q_Q14         N142260 INP N142248 QBC846B 
+C_C1         N143466 REACTIE  1n  TC=0,0 
+Q_Q10         N142878 N141910 N142882 QBC846B 
+R_R2         REACTIE INM  22k TC=0,0 
+C_C7         0 INP  1n  TC=0,0 
+V_V2         0 VEE 5
+C_C3         0 INP  1n  TC=0,0 
+C_C6         0 INP  1n  TC=0,0 
+R_R1         N143560 N143466  680 TC=0,0 
+R_Rd1         VCC N142124  100 TC=0,0 
+X_P3         N143560 INP INP POT PARAMS: SET=0.6 VALUE=10k
+R_RL1         REACTIE VOUT  68k TC=0,0 
+X_P2         INP N142520 N142520 POT PARAMS: SET=0.6 VALUE=10k
+R_R15         N142328 VCC  51 TC=0,0 
+C_C77         0 N142696  1u  TC=0,0 
+R_R4         N141910 VCC  3.9k TC=0,0 
+Q_Q15         N142248 N141910 N142370 QBC846B 
+X_U1         N141910 N143386 1N4148 
+R_R5         VEE N142882  51 TC=0,0 
+Q_Q18         N142260 N142264 N142282 QBC856B 
+Q_Q20         VEE N142878 REACTIE QBC856B 
+X_P1         N142696 N142684 0 POT PARAMS: SET=0.8 VALUE=500k
+C_C5         N143466 REACTIE  1n  TC=0,0 
+C_C4         N143466 REACTIE  1n  TC=0,0 
+Q_Q17         N142264 N142264 N142328 QBC856B 
+Q_Q11         N142852 N142852 N142878 QBC846B 
+V_V4         N142206 VEE 3
+
+**** RESUMING PSF.cir ****
+.END
+
+ERROR(ORPSIM-15113): Model JMMBFJ309LT1 used by J_Q21 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q12 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q19 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q16 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q22 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q14 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q10 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q15 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q18 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q20 is undefined
+
+ERROR(ORPSIM-15113): Model QBC856B used by Q_Q17 is undefined
+
+ERROR(ORPSIM-15113): Model QBC846B used by Q_Q11 is undefined
+
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U2 is undefined
+
+ERROR(ORPSIM-15108): Subcircuit 1N4148 used by X_U1 is undefined
+
