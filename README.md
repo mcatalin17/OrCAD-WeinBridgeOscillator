@@ -3,7 +3,7 @@ OrCAD project of a Wein bridge oscillator. I successfully implemented this proje
 
 This project was made in year 3 of my university studies at Politehnica University of Bucharest @ Faculty of Electronics, Telecommunications and Information Technology
 
-The implementation was a bit rushed and unorganized and some of the documentation is in Romanian so browse at your own risk!
+Unfortunately the documentation is in Romanian so browse at your own risk!
 ![image](https://github.com/user-attachments/assets/296b9844-e15e-4c6a-9e9c-f553665b4454)
 ###
 ###
